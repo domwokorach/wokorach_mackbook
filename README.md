@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-CodeRabbit-FF6C37?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Hostinger-674CC4?style=for-the-badge&logo=hostinger&logoColor=white" />
 
-**Installation**
+**Quick Start**
 
 Install the project dependencies using npm:
 
