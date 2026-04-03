@@ -4,7 +4,7 @@
 
 Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS! Showcase products in immersive 3D scenes, scroll-animated models, and pinned sections. Featuring responsive design, smooth timeline animations, and visually striking image transitions—perfect for developers creating interactive, modern web experiences.
 
-## quick-start">🤸 Quick Start
+## 🤸 Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
