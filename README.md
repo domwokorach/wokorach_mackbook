@@ -1,10 +1,10 @@
-## 🚨 Tutorial
+# 🚨 Tutorial
 
-## <a name="introduction">✨ Introduction</a>
+## ✨ Introduction
 
 Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS! Showcase products in immersive 3D scenes, scroll-animated models, and pinned sections. Featuring responsive design, smooth timeline animations, and visually striking image transitions—perfect for developers creating interactive, modern web experiences.
 
-## <a name="quick-start">🤸 Quick Start</a>
+## quick-start">🤸 Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
@@ -19,8 +19,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/gsap_macbook_landing.git
-cd gsap_macbook_landing
+https://github.com/domwokorach/wokorach_mackbook.git
+cd wokorach_mackbook
 ```
 
 **Installation**
